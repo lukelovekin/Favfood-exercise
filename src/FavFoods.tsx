@@ -29,19 +29,19 @@ export default (): JSX.Element => {
             name="Pizza" 
             time="All the time" 
             place="Queen Magarhitra" 
-            // image="https://bit.ly/2rJ4rnn" 
+            image="https://bit.ly/2rJ4rnn" 
             />
             <Food 
             name="Quesadillas" 
             time="Afternoon Siesta" 
             place="jonys ques"
-            // image="https://bit.ly/2ryI6bZ" 
+            image="https://bit.ly/2ryI6bZ" 
             />
             <Food 
             name="Icecream Pancakes" 
             time="Breaky" 
             place="Pancakes r us" 
-            // image="https://bit.ly/2zUznp2" 
+            image="https://bit.ly/2zUznp2" 
             />
             <Food 
             name="Loaded Fries" 
